@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+
+
+}
+
+
+.header{
+    background-image: url(../images/Igroki/gold.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
