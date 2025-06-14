@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+
+
+}
+
+
+.header{
+    background-image: url(../images/Igroki/mid.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
